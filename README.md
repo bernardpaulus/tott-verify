@@ -6,3 +6,4 @@ setup of the [TotT](http://tott-meetup.rtfd.org) development environment.
 * Name: Peter Parente
 * Email: parente@cs.unc.edu
 * GitHub Username: parente
+test out of vm
